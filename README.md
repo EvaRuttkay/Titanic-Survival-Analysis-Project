@@ -6,7 +6,7 @@
 
 This project is a data analysis and visualization endeavor aimed at investigating the demographic and social factors that influenced survival rates during the sinking of the RMS Titanic.
 
-The analysis answers key historical questions by leveraging the power of **Python (Pandas)** for data cleaning and preparation, and **Tableau** for creating an interactive, insightful dashboard.
+The analysis answers key historical questions by leveraging the power of **Python (Pandas)** for data cleaning and preparation, and **Tableau** for creating an interactive, insightful [dashboard](https://public.tableau.com/views/Titanic_17636386242300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## ✨ Key Questions Answered
 
