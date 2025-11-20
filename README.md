@@ -26,14 +26,14 @@ The core of this project is the Tableau dashboard, which provides the following 
 
 
 * **Survival Rate by Age Group (Treemap):** Breaks down survival by categories like **Child**, **Teen**, **Young Adult**, **Adult**, and **Senior**, demonstrating the "women and children first" protocol's effect.
-    * *Insight:* Children and Young Adults generally had higher survival rates than other age groups.
-<img width="499" height="274" alt="Screenshot 2025-11-20 at 13 11 35" src="https://github.com/user-attachments/assets/2f920779-77c0-43a3-b218-9e54e9fda280" />
+    * *Insight:* Children generally had higher survival rates than other age groups.
+<img width="406" height="476" alt="Screenshot 2025-11-20 at 23 11 48" src="https://github.com/user-attachments/assets/b4012444-8e8a-4792-b645-444b1f568beb" />
+
 
 * **Survival by Being Alone (Pie Chart):** Compares the survival percentages of those traveling alone versus those with family.
     * *Insight:* Passengers **not alone** (traveling with family) had a slightly higher survival rate than those traveling alone.
 <img width="235" height="183" alt="Screenshot 2025-11-20 at 13 12 59" src="https://github.com/user-attachments/assets/b7e78ff2-9f5f-4c0d-b9f0-10640dd11157" />
 
-* **Passenger Boarding Map (Map):** Shows the geographic distribution of passenger boarding locations (likely Southampton, Cherbourg, and Queenstown).
 
 ## 🛠️ Technologies Used
 
