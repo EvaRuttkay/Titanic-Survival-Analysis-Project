@@ -3,7 +3,7 @@
 ### Uncovering the factors that determined survival on the RMS Titanic using Python and Tableau.
 
 ### 🎯 Key Skills Demonstrated:
-`Python` &nbsp; `Pandas` &nbsp; `Data Maniputlation and Cleaning` &nbsp;`Exploratory data analysis` &nbsp; `Data Visualization` &nbsp; `Feature Engineering` &nbsp; `Storytelling with Data` &nbsp; `Working with Public Datasets` &nbsp;
+`Python` &nbsp; `Pandas` &nbsp; `Data Maniputlation and Cleaning` &nbsp;`Exploratory data analysis` &nbsp;  `Tableau` &nbsp; `Data Visualization` &nbsp; `Feature Engineering` &nbsp; `Storytelling with Data` &nbsp; `Working with Public Datasets` &nbsp;
 
 ## 🎯 Overview
 
