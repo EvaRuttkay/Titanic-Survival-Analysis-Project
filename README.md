@@ -2,6 +2,8 @@
 
 ### Uncovering the factors that determined survival on the RMS Titanic using Python and Tableau.
 
+### 🎯 Key Skills Demonstrated:
+`Python` &nbsp; `Pandas` &nbsp; `Exploratory data analysis`
 ## 🎯 Overview
 
 This project is a data analysis and visualization endeavor aimed at investigating the demographic and social factors that influenced survival rates during the sinking of the RMS Titanic.
